@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-        - main
+      - main
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          
+
       - name: Run repo-sunsetter
         id: archive
         uses: DSACMS/repo-sunsetter@DSACMS/nat/gen-action

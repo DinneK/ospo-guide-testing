@@ -24,4 +24,4 @@ jobs:
         uses: DSACMS/repo-sunsetter@DSACMS/nat/gen-action
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          METADATA_FILE_TYPE: "publiccode.yml"
+          METADATA_FILE_TYPE: "code.json"

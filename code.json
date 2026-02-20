@@ -3,7 +3,7 @@
   "version": "",
   "description": "Open Source Program Office Guide for CMS.gov",
   "longDescription": "A comprehensive guide offering resources, best practices, and processes in open source software development that take place within the CMS Open Source Program Office.",
-  "status": "Production",
+  "status": "Archival",
   "permissions": {
     "licenses": [
       {
@@ -25,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5612,
+  "laborHours": 5613,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -53,13 +53,14 @@
   "partners": [],
   "date": {
     "created": "2026-02-20T03:50:27Z",
-    "lastModified": "2026-02-20T03:51:13Z",
-    "metadataLastUpdated": "2026-02-20T14:53:49.943Z"
+    "lastModified": "2026-02-20T18:57:39Z",
+    "metadataLastUpdated": "2026-02-20T18:59:14.010Z"
   },
   "tags": [
     "guide",
     "ospo",
-    "featured"
+    "featured",
+    "Archived"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",

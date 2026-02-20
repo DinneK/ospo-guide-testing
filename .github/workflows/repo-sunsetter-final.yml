@@ -24,4 +24,5 @@ jobs:
         uses: DSACMS/repo-sunsetter@DSACMS/nat/gen-action
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ARCHIVE_NOTICE_TEXT: "this is a test"
+          METADATA_FILE_TYPE: "publiccode.yml"
+          USE_MATURITY_MODEL_TIERS: "true"

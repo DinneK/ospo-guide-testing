@@ -25,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5612,
+  "laborHours": 5614,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -53,8 +53,8 @@
   "partners": [],
   "date": {
     "created": "2026-02-20T03:50:27Z",
-    "lastModified": "2026-02-20T03:51:13Z",
-    "metadataLastUpdated": "2026-02-20T14:53:49.943Z"
+    "lastModified": "2026-02-20T19:05:24Z",
+    "metadataLastUpdated": "2026-03-01T01:26:10.888Z"
   },
   "tags": [
     "guide",

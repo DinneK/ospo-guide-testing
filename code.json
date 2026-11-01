@@ -25,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5612,
+  "laborHours": 5614,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -49,12 +49,21 @@
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/ospo-guide/network/dependencies",
   "relatedCode": [],
-  "reusedCode": [],
+  "reusedCode": [
+    {
+      "name": "DSACMS/ospo-guide",
+      "URL": "https://github.com/DSACMS/ospo-guide"
+    },
+    {
+      "name": "U.S. Web Design System (USWDS)",
+      "URL": "https://github.com/uswds/uswds"
+    }
+  ],
   "partners": [],
   "date": {
     "created": "2026-02-20T03:50:27Z",
-    "lastModified": "2026-02-20T03:51:13Z",
-    "metadataLastUpdated": "2026-02-20T14:53:49.943Z"
+    "lastModified": "2026-02-20T19:05:24Z",
+    "metadataLastUpdated": "2026-11-01T03:25:41.244Z"
   },
   "tags": [
     "guide",
